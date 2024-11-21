@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{74AF30B4-D12E-5555-14D2-70B8BCA3A907}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MingqiGame/_Tools/EnumTools.cs">
+    <Files>
+      <File FileName="Assets/MingqiGame/UIFrameWork_1/Base/UIBase.cs" Line="42" Column="8" />
+      <File FileName="Assets/MingqiGame/UIFrameWork_1/Manager/UIManager.cs" />
+      <File FileName="Assets/MingqiGame/_Tools/EnumTools.cs" Line="38" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e447884a-0cbf-4bbb-adeb-51612ded51b8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
